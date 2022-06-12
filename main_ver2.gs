@@ -1,5 +1,3 @@
-
-
 //◆◆◆業務管理Spreadsheetを取得◆◆◆
 const ss = SpreadsheetApp.getActiveSpreadsheet();
 
